@@ -55,7 +55,7 @@
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="index.html" class="active">Home</a></li>
-          <li><a href="about.html">About</a></li>
+          <li><a href="">About</a></li>
          
           <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
@@ -74,7 +74,7 @@
               <li><a href="#">Dropdown 4</a></li>
             </ul>
           </li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="#contact-us">Contact</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
@@ -93,7 +93,7 @@
             <div class="col-lg-6 text-center">
               <h2>Welcome to Excellent Roofing</h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-              <a href="#get-started" class="btn-get-started">Get Started</a>
+             
             </div>
           </div>
         </div>
@@ -134,25 +134,27 @@
     </section><!-- /Hero Section -->
 
     <!-- Get Started Section -->
-    <section id="get-started" class="get-started section">
+    <section id="contact-us" class="get-started section">
 
       <div class="container">
 
         <div class="row justify-content-between gy-4">
 
           <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="100">
-            <div class="content">
-              <h3>Minus hic non reiciendis ea possimus at quia.</h3>
-              <p>Rem id rerum. Debitis deserunt quidem delectus expedita ducimus dolor. Aut iusto ipsa. Eos ipsum nobis ipsa soluta itaque perspiciatis fuga ipsum perspiciatis. Eum amet fugiat totam nisi possimus ut delectus dicta.
-              </p>
-              <p>Aliquam velit deserunt autem. Inventore et saepe. Tenetur suscipit eligendi labore culpa eos. Deserunt porro magni qui necessitatibus dolorem at animi cupiditate.</p>
+            <div class="et_pb_row et_pb_row_0 et_pb_equal_columns">
+              <div class="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
+                <div class="et_pb_module et_pb_code et_pb_code_0">
+                  <div class="et_pb_code_inner">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2611.7737501615698!2d-122.88433742451758!3d49.10993848297266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5485db8d3138bb37%3A0x3b04f37e3ee4f0b6!2sAnytime%20Roofing!5e0!3m2!1sen!2sca!4v1708345905654!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
-
           <div class="col-lg-5" data-aos="zoom-out" data-aos-delay="200">
             <form action="forms/quote.php" method="post" class="php-email-form">
               <h3>Get a quote</h3>
-              <p>Vel nobis odio laboriosam et hic voluptatem. Inventore vitae totam. Rerum repellendus enim linead sero park flows.</p>
+              <h4>Schedule a Quote with our Roofing Experts!</h4>
               <div class="row gy-3">
 
                 <div class="col-12">
@@ -183,7 +185,7 @@
             </form>
           </div><!-- End Quote Form -->
 
-        </div>
+        
 
       </div>
 
@@ -210,8 +212,8 @@
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Eligendi omnis sunt veritatis.</h4>
-                    <p>Fuga in dolorum et iste et culpa. Commodi possimus nesciunt modi voluptatem placeat deleniti adipisci. Cum delectus doloribus non veritatis. Officia temporibus illo magnam. Dolor eos et.</p>
+                    <h4 class="card-title">Emergency Roof Repair Services</h4>
+                    <p>Our emergency repair service is available 24/7 to attend to your needs promptly. We take every emergency repair call with the utmost seriousness and respond quickly to ensure that the damage is contained and repaired in the shortest time possible.</p>
                   </div>
                 </div>
               </div>
@@ -226,8 +228,8 @@
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Possimus ut sed velit assumenda</h4>
-                    <p>Sunt deserunt maiores voluptatem autem est rerum perferendis rerum blanditiis. Est laboriosam qui iste numquam laboriosam voluptatem architecto. Est laudantium sunt at quas aut hic. Eum dignissimos.</p>
+                    <h4 class="card-title">Roof Repairing</h4>
+                    <p><b>Repairs for All Types of Roofing.</b> Whether you’ve got a small leak or significant storm damage, we’ll diagnose the problem quickly and provide a transparent repair plan. We use top-quality materials and proven techniques to get your roof back in tip-top shape, all at a competitive price.</p>
                   </div>
                 </div>
               </div>
@@ -243,7 +245,7 @@
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
                     <h4 class="card-title">New Roofing</h4>
-                    <p>Dicta porro nobis. Velit cum in. Nesciunt dignissimos enim molestiae facilis numquam quae quaerat ipsam omnis. Neque debitis ipsum at architecto officia laboriosam odit. Ut sunt temporibus nulla culpa.</p>
+                    <p>We understand that a new roof is a significant investment, and we are committed to providing you with the highest level of quality, workmanship, and service. Our main service, New Roofing, involves the installation of a new roof system.</p>
                   </div>
                 </div>
               </div>
@@ -259,7 +261,7 @@
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
                     <h4 class="card-title">Roof Replacement</h4>
-                    <p>Aut est quidem doloremque voluptatem magnam quis excepturi vero quia. Eum eos doloremque architecto illo at beatae dolore. Fugiat suscipit et sint ratione dolores. Aut aliquid ea dolores libero nobis.</p>
+                    <p>We understand that a damaged roof can be a stressful and urgent issue. Our team is available around the clock to respond.  Contact us today to learn more about our services and how we can help you with your roofing needs.</p>
                   </div>
                 </div>
               </div>
