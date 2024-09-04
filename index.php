@@ -40,7 +40,7 @@
   a{cursor:pointer !important;}.whatsapp-icon {position: fixed;float: right;bottom: 90px; /* Adjust the vertical position */right: 20px; /* Adjust the horizontal position */z-index: 999;}
 </style>
 <body class="index-page">
-  <a class="whatsapp-icon" href="https://wa.me/+17789294900?text=Hi how can i help you">
+  <a class="whatsapp-icon" href="https://wa.me/+17789294900?text=Hi">
     <img src="assets/img/wa.png" alt="WhatsApp" />
   </a>
   <header id="header" class="header d-flex align-items-center fixed-top">
